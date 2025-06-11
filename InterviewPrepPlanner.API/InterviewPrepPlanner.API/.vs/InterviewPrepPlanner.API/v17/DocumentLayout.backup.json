@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\models\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:models\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\models\\week.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:models\\week.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\models\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:models\\month.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\controllers\\daycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:controllers\\daycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\controllers\\weekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:controllers\\weekcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|c:\\users\\garima.barthwal\\desktop\\backup\\prepration checklist app\\interviewprepplanner.api\\interviewprepplanner.api\\controllers\\monthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FDF5697-CC9B-A8FD-639A-6E222CBF4285}|InterviewPrepPlanner.API.csproj|solutionrelative:controllers\\monthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:06:46.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Controllers\\TaskController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:59:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T07:52:53.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:51:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Day.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\Day.cs",
+              "RelativeDocumentMoniker": "Models\\Day.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\Day.cs",
+              "RelativeToolTip": "Models\\Day.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:51:28.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Month.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\Month.cs",
+              "RelativeDocumentMoniker": "Models\\Month.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\Month.cs",
+              "RelativeToolTip": "Models\\Month.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:50:58.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\TaskItem.cs",
+              "RelativeToolTip": "Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:51:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Week.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\Week.cs",
+              "RelativeDocumentMoniker": "Models\\Week.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Models\\Week.cs",
+              "RelativeToolTip": "Models\\Week.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:51:10.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonthController.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\MonthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MonthController.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\MonthController.cs",
+              "RelativeToolTip": "Controllers\\MonthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:52:15.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeekController.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\WeekController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeekController.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\WeekController.cs",
+              "RelativeToolTip": "Controllers\\WeekController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:59:12.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DayController.cs",
+              "DocumentMoniker": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\DayController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DayController.cs",
+              "ToolTip": "C:\\Users\\garima.barthwal\\Desktop\\backup\\Prepration checklist app\\InterviewPrepPlanner.API\\InterviewPrepPlanner.API\\Controllers\\DayController.cs",
+              "RelativeToolTip": "Controllers\\DayController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:59:23.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
